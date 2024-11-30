@@ -1,0 +1,102 @@
+{
+  "AssetId": "9ff3dee14ffc48ada1f0f0757120c2f8",
+  "Data": {
+    "$type": "adc63a0dcf487a44c9c7e8ccb4b5fb33, BlueprintItemEquipmentHead",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
+        "name": "$AddFactToEquipmentWielder$1e7f0f31-7ac4-4318-8801-2943c344d4a2",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Fact": "!bp_d664540a6e434440b037358c9806b527"
+      },
+      {
+        "$type": "d7b23547716f4a949471625ff6c66fb2, EquipmentRestrictionHasFacts",
+        "name": "$EquipmentRestrictionHasFacts$07fa87f1-5b9d-428c-b335-7bf0c5824348",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "m_Facts": [
+          "!bp_b6962fcc54054af98961dd9a6c0f9e18"
+        ],
+        "m_Inverted": false,
+        "All": true
+      }
+    ],
+    "Author": 0,
+    "Comment": "",
+    "m_DisplayName": {
+      "m_Key": "AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Description": {
+      "m_Key": "AdeptaSororitasHelmetSabbatHoodDP_Item_Description",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_Icon": {
+      "guid": "a49a28ea5ab3069428822b890e9e9c77",
+      "fileid": 21300000
+    },
+    "m_FlavorText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "m_NotStackable": true,
+    "m_Weight": 0.0,
+    "m_Origin": "Armours",
+    "m_Rarity": "Pattern",
+    "m_Tag": "None",
+    "m_IsNotable": false,
+    "m_ProfitFactorCost": 0.0,
+    "m_CargoVolumePercent": 10,
+    "m_InventoryPutSound": "UI_INV_Flak_Put_Play",
+    "m_InventoryTakeSound": "UI_INV_Flak_Take_Play",
+    "ToCargoAutomatically": false,
+    "ItemLevel": 0,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesAfterCombat": false,
+    "IsNonRemovable": false,
+    "IsUnlootable": false,
+    "m_EquipmentEntity": "!bp_9fe004e74d3a4d219ef41e00485ef5b4",
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": -1,
+    "m_Enchantments": [],
+    "m_InventoryEquipSound": "UI_INV_Rifle_Equip_Play"
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

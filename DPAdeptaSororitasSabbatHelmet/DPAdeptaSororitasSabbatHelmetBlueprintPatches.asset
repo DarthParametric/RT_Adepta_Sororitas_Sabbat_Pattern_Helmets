@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80fe07f61edc4914ac44891e22e1fdf7, type: 3}
+  m_Name: DPAdeptaSororitasSabbatHelmetBlueprintPatches
+  m_EditorClassIdentifier: 
+  Entries:
+  - Guid: f8a16dab0d494db4a936b7c54da21576
+    Filename: DrusianChapter2_VendorTable_Base
+    PatchType: 1
+  - Guid: 9d38eb7f5531476cbe0a9f3e32e010ad
+    Filename: DrusianChapter4_VendorTable_Base
+    PatchType: 1
+  - Guid: 8be5db8cda524d66b37d39cac2c178a9
+    Filename: CommandAction9
+    PatchType: 1
+  - Guid: 5ab1a041ab5c4435883c7ade6192a80c
+    Filename: CommandAction10
+    PatchType: 1

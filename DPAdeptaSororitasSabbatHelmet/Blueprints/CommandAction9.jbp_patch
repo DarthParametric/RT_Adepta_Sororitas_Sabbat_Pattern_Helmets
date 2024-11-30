@@ -1,0 +1,117 @@
+{
+  "TargetGuid": "8be5db8cda524d66b37d39cac2c178a9",
+  "FieldOverrides": [],
+  "ArrayPatches": [
+    {
+      "FieldName": "Action.Actions",
+      "OperationType": "RemoveElement",
+      "Value": {
+        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+        "name": "$AddItemToPlayer$f9a8e366881c51f4bd8877aa90e4620e",
+        "m_ItemToGive": "!bp_9dec89a18f9a4175852ffa669fc05f6d",
+        "Silent": false,
+        "Quantity": 1,
+        "Identify": false,
+        "Equip": true,
+        "EquipOn": {
+          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
+          "name": "$CompanionInParty$cd521d77c6d95ca195f6da36320c5925",
+          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
+          "IncludeActive": true,
+          "IncludeDetached": false,
+          "IncludeRemote": false,
+          "IncludeExCompanions": false,
+          "IncludeDead": false,
+          "Index": 0
+        },
+        "PreferredWeaponSet": 0,
+        "m_Hand": "Any",
+        "ForceEquip": false,
+        "ErrorIfDidNotEquip": true
+      },
+      "TargetValue": null
+    },
+    {
+      "FieldName": "Action.Actions",
+      "OperationType": "InsertAtBeginning",
+      "Value": {
+        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+        "name": "$AddItemToPlayer$e5cfd7e47d8a4a6691f39eb266226726",
+        "m_ItemToGive": "!bp_9dec89a18f9a4175852ffa669fc05f6d",
+        "Silent": false,
+        "Quantity": 1,
+        "Identify": false,
+        "Equip": true,
+        "EquipOn": {
+          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
+          "name": "$CompanionInParty$029dc84b0acc431c9e8c3d1c1b980c38",
+          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
+          "IncludeActive": true,
+          "IncludeDetached": true,
+          "IncludeRemote": true,
+          "IncludeExCompanions": true,
+          "IncludeDead": false,
+          "Index": 0
+        },
+        "PreferredWeaponSet": 0,
+        "m_Hand": "Any",
+        "ForceEquip": false,
+        "ErrorIfDidNotEquip": true
+      },
+      "TargetValue": null
+    },
+    {
+      "FieldName": "Action.Actions",
+      "OperationType": "InsertAfterElement",
+      "Value": {
+        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+        "name": "$AddItemToPlayer$47678d52cc5b4cc4866e2a903de1b90f",
+        "m_ItemToGive": "!bp_19832e18b70e435fa7cd15100787b32b",
+        "Silent": false,
+        "Quantity": 1,
+        "Identify": false,
+        "Equip": true,
+        "EquipOn": {
+          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
+          "name": "$CompanionInParty$87ad3fa798e24d549fd00acda734554e",
+          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
+          "IncludeActive": true,
+          "IncludeDetached": true,
+          "IncludeRemote": true,
+          "IncludeExCompanions": true,
+          "IncludeDead": false,
+          "Index": 0
+        },
+        "PreferredWeaponSet": 0,
+        "m_Hand": "Any",
+        "ForceEquip": false,
+        "ErrorIfDidNotEquip": true
+      },
+      "TargetValue": {
+        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
+        "name": "$AddItemToPlayer$e5cfd7e47d8a4a6691f39eb266226726",
+        "m_ItemToGive": "!bp_9dec89a18f9a4175852ffa669fc05f6d",
+        "Silent": false,
+        "Quantity": 1,
+        "Identify": false,
+        "Equip": true,
+        "EquipOn": {
+          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
+          "name": "$CompanionInParty$029dc84b0acc431c9e8c3d1c1b980c38",
+          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
+          "IncludeActive": true,
+          "IncludeDetached": true,
+          "IncludeRemote": true,
+          "IncludeExCompanions": true,
+          "IncludeDead": false,
+          "Index": 0
+        },
+        "PreferredWeaponSet": 0,
+        "m_Hand": "Any",
+        "ForceEquip": false,
+        "ErrorIfDidNotEquip": true
+      }
+    }
+  ],
+  "ComponentsPatches": []
+}

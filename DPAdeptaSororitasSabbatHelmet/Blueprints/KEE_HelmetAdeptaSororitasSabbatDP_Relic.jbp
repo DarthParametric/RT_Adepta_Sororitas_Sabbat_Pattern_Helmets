@@ -1,0 +1,55 @@
+{
+  "AssetId": "8471a478f9144f9bb5829da602047d74",
+  "Data": {
+    "$type": "856d2f6e26e25c04fad05a1429d1b579, KingmakerEquipmentEntity",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": 0,
+    "Comment": "",
+    "m_MaleArray": [],
+    "m_FemaleArray": [],
+    "m_RaceDependent": true,
+    "m_RaceDependentArrays": [
+      {
+        "MaleArray": [],
+        "FemaleArray": [
+          {
+            "AssetId": "dafa7581be5c1224380cba7c7deacf33"
+          }
+        ]
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      },
+      {
+        "MaleArray": [],
+        "FemaleArray": []
+      }
+    ]
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}
