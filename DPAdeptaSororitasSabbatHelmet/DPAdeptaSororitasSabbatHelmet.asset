@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: DPAdeptaSororitasSabbatHelmet
-    Version: 1.0
+    Version: 1.0.2
     DisplayName: Adepta Sororitas Sabbat-Pattern Helmets
     Description: Adds several Sabbat-pattern helmets for Argenta
     Author: DarthParametric
