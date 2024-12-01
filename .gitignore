@@ -396,4 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
 GamePath.props
+
+# Exclude binary assets
+*.tga
+*.png
+*.fbx
