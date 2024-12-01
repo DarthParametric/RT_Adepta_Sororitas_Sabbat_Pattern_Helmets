@@ -1,0 +1,12 @@
+{
+  "TargetGuid": "f8a16dab0d494db4a936b7c54da21576",
+  "FieldOverrides": [],
+  "ArrayPatches": [],
+  "ComponentsPatches": [
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"9a9cba603f85c634690eb67962fdf792, LootItemsPackFixed\",\r\n    \"name\": \"$LootItemsPackFixed$f037df03-10b3-4033-bbfa-1595e5efcaaf\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"m_OverrideReputationPointsToUnlock\": true,\r\n    \"m_ReputationPointsToUnlock\": 10230,\r\n    \"m_Item\": {\r\n      \"m_Type\": \"Item\",\r\n      \"m_Item\": \"!bp_5b08943e790e403ea5f7b22816630dad\",\r\n      \"m_Loot\": null,\r\n      \"m_OverrideProfitFactorCost\": true,\r\n      \"m_ProfitFactorCost\": 25,\r\n      \"m_Diversity\": 0\r\n    },\r\n    \"m_Count\": 1,\r\n    \"m_DlcCondition\": false,\r\n    \"m_DlcReward\": null\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    }
+  ]
+}
