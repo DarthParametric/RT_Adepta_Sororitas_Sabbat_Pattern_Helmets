@@ -73,7 +73,6 @@ StyleCopReport.xml
 *_p.c
 *_h.h
 *.ilk
-*.meta
 *.obj
 *.iobj
 *.pch
@@ -398,6 +397,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 GamePath.props
+
+/Update_Mod_Folder.ps1
 
 # Exclude binary assets
 *.tga
