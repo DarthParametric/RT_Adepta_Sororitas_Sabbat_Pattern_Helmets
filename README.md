@@ -7,7 +7,7 @@ This mod adds the familiar Sabbat-pattern helmet employed by the Adepta Sororita
 The mod contains four helmets. The first two - the standard base version and a hooded Celestian version - are available in chapters 2 and 4, respectively, via the Drusian vendor. The remaining two are paired with Argenta's mutually exclusive quest armours, available at the end of chapter 4. Additionally, this mod makes a minor tweak to the final cutscene/conversation of this quest to ensure that Argenta actually equips the armour she gains.
 
 ## Installation
-This is an Owlmod, made using the Unity template supplied by Owlcat. Currently the game has a bug that prevents Owlmods from working. To fix this, you ***must*** install the Unity Mod Manager-based mod [MicroPatches](https://github.com/microsoftenator2022/MicroPatches/releases) by microsoftenator2022. You can install it manually or via [ModFinder](https://www.nexusmods.com/warhammer40kroguetrader/mods/146).
+This is an Owlmod, made using the Unity template supplied by Owlcat. Currently the game has a bug that prevents Owlmods from working. To fix this, you ***must*** install the Unity Mod Manager-based mod [MicroPatches](https://github.com/microsoftenator2022/MicroPatches/releases) by microsoftenator2022. You can install it manually or via [ModFinder](https://github.com/CasDragon/ModFinder/releases/latest).
 
 To install this mod, first make sure you have run the game at least once. Download the archive and extract it into:
 
