@@ -40,6 +40,8 @@ Alternatively, use [ModFinder](https://www.nexusmods.com/warhammer40kroguetrader
 It should be fine to install the mod in an existing game at any point right up to completing Argenta's quest in chapter 4 (or after if you're willing to use Toybox to manually spawn the helmets).
 
 ## Known Issues
+Additional localisation support has been added for non-English languages, but these have mostly been machine translated aside from those noted below. Expect errors and terrible/nonsensical grammar.
+
 There will be some log spam after the final cutscene of Argenta's personal quest (although the vanilla version also has a bunch of error logs) seemingly due to the game trying to equip Argenta before she has rejoined the party. I did try tweaking the scene to prevent this but to no avail. Despite the error logs, everything seems to work fine. She will be wearing the armour and associated helmet for the path she's on when she returns to you (check the images tab for a screenshot).
 
 The mod will be incompatible with any other mod that edits the CommandAction9 and CommandAction10 blueprints for the Argenta_Q2_ArgentaReturn_KTC cutscene. It's an unfortunate limitation of the way Owlmod blueprint patches work. It will probably also break (at least until I update it) if Owlcat patch those blueprints or otherwise alter the scene at some point to fix the vanilla bug.
@@ -48,3 +50,5 @@ This mod creates a save dependency! You won't be able to load a save that used i
 
 ## Acknowledgements
 Many thanks to the modders on the Owlcat Dicord, but particularly microsoftenator2022 and Kurufinve, for helping to coach me through my ineptitude in order to get the mod working.
+
+Chinese localisation kindly supplied by Komoechan.
