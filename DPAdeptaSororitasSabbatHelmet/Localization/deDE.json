@@ -1,0 +1,34 @@
+{
+	"strings": {
+		"AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+			"Text": "Adepta Sororitas Helm mit Sabbatmuster"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_Description": {
+			"text": "Der Helm in Standardausführung wird seit Mitte des 38. Jahrtausends von der Mehrheit der Battle Sisters getragen und ist mit verschiedenen Subsystemen ausgestattet, darunter ein integrierter Rebreather, der den Betrieb in totalem Vakuum oder kontaminierter Atmosphäre für begrenzte Zeiträume ermöglicht, Vollspektrumfilterung und psycho-okulare Pufferung, die den Träger vor widrigen Bedingungen auf dem Schlachtfeld schützt, ein Fotovisier, Preysight, Zielgerät und Kommunikationsverbindung. So kann der Helm infiltrierte Einheiten erkennen und bietet erweiterte taktische Anzeigen. Darüber hinaus ist er aus psycho-aufhebenden Materialien gefertigt, um einen gewissen Schutz gegen Psioniker und die Kräfte des Warp zu bieten. Der Träger erleidet −4 % weniger Schaden durch {g|Encyclopedia:PsychicPowers}übersinnliche Kräfte{/g}, erhält +5 % {g|Encyclopedia:HitSequenceGlossary}Trefferchance{/g} gegen Fernziele, +10 {g|Encyclopedia:SkillAwareness}Bewusstsein{/g}, wird immun gegen {g|Encyclopedia:ToxinEffect}Toxin{/g} und ignoriert die Wirkung von {g|Encyclopedia:Stun}Betäubungs{/g} und Blendgranaten."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+			"Text": "Adepta Sororitas Helm mit Sabbatmuster (Celestian)"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+			"text": "Der Helm in Standardausführung wird seit Mitte des 38. Jahrtausends von der Mehrheit der Battle Sisters getragen und ist mit verschiedenen Subsystemen ausgestattet, darunter ein integrierter Rebreather, der den Betrieb in totalem Vakuum oder kontaminierter Atmosphäre für begrenzte Zeiträume ermöglicht, Vollspektrumfilterung und psycho-okulare Pufferung, die den Träger vor widrigen Bedingungen auf dem Schlachtfeld schützt, ein Fotovisier, Preysight, Zielgerät und Kommunikationsverbindung. So kann der Helm infiltrierte Einheiten erkennen und bietet erweiterte taktische Anzeigen. Darüber hinaus ist er aus psycho-aufhebenden Materialien gefertigt, um einen gewissen Schutz gegen Psioniker und die Kräfte des Warp zu bieten. Der Träger erleidet −8 % weniger Schaden durch {g|Encyclopedia:PsychicPowers}psychische Kräfte{/g}, erhält +10 % {g|Encyclopedia:HitSequenceGlossary}Trefferchance{/g} gegen Fernziele, +15 {g|Encyclopedia:SkillAwareness}Bewusstsein{/g}, wird immun gegen {g|Encyclopedia:ToxinEffect}Toxin{/g} und ignoriert die Wirkung von {g|Encyclopedia:Stun}Betäubungs{/g} und Blendgranaten.\n\nDieser besondere Helm trägt das Fleur-de-Lys-Symbol der Schwesternschaft, eine Ehre, die normalerweise jenen Schwestern vorbehalten ist, die außergewöhnlichen Mut bewiesen haben. Solche Insignien sieht man am häufigsten als Dekoration für die Ausrüstung von Eliteeinheiten der Celestianer."
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+			"Text": "Adepta Sororitas Helm mit Sabbatmuster (Relikt)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+			"text": "Der Helm in Standardausführung wird seit Mitte des 38. Jahrtausends von der Mehrheit der Battle Sisters getragen und ist mit verschiedenen Subsystemen ausgestattet, darunter ein integrierter Rebreather, der den Betrieb in totalem Vakuum oder kontaminierter Atmosphäre für begrenzte Zeiträume ermöglicht, Vollspektrumfilterung und psycho-okulare Pufferung, die den Träger vor widrigen Bedingungen auf dem Schlachtfeld schützt, ein Fotovisier, Preysight, Zielgerät und Kommunikationsverbindung. So kann der Helm infiltrierte Einheiten erkennen und bietet erweiterte taktische Anzeigen. Darüber hinaus ist er aus psycho-aufhebenden Materialien gefertigt, um einen gewissen Schutz gegen Psioniker und die Kräfte des Warp zu bieten. Der Träger erleidet −12 % weniger Schaden durch {g|Encyclopedia:PsychicPowers}psychische Kräfte{/g}, erhält +15 % {g|Encyclopedia:HitSequenceGlossary}Trefferchance{/g} gegen Fernziele, +20 {g|Encyclopedia:SkillAwareness}Bewusstsein{/g}, wird immun gegen {g|Encyclopedia:ToxinEffect}Toxin{/g} und ignoriert die Wirkung von {g|Encyclopedia:Stun}Betäubungs{/g} und Blendgranaten.\n\nDieser besondere Helm trägt das Liliensymbol der Schwesternschaft, eine Ehre, die normalerweise jenen Schwestern vorbehalten ist, die außergewöhnlichen Mut bewiesen haben. Solche Insignien sieht man am häufigsten als Dekoration für die Ausrüstung von Eliteeinheiten der Celestianer."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+			"Text": "Adepta Sororitas Sabbat-Musterhelm (gesalbte Heilige)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+			"text": "Der Helm in Standardausführung wird seit Mitte des 38. Jahrtausends von der Mehrheit der Battle Sisters getragen und ist mit verschiedenen Subsystemen ausgestattet, darunter ein integrierter Rebreather, der den Betrieb in totalem Vakuum oder kontaminierter Atmosphäre für begrenzte Zeiträume ermöglicht, Vollspektrumfilterung und psycho-okulare Pufferung, die den Träger vor widrigen Bedingungen auf dem Schlachtfeld schützt, ein Fotovisier, Preysight, Zielgerät und Kommunikationsverbindung. So kann der Helm infiltrierte Einheiten erkennen und bietet erweiterte taktische Anzeigen. Darüber hinaus ist er aus psycho-aufhebenden Materialien gefertigt, um einen gewissen Schutz gegen Psioniker und die Kräfte des Warp zu bieten. Der Träger erleidet −12 % weniger Schaden durch {g|Encyclopedia:PsychicPowers}psychische Kräfte{/g}, erhält +15 % {g|Encyclopedia:HitSequenceGlossary}Trefferchance{/g} gegen Fernziele, +20 {g|Encyclopedia:SkillAwareness}Bewusstsein{/g}, wird immun gegen {g|Encyclopedia:ToxinEffect}Toxin{/g} und ignoriert die Wirkung von {g|Encyclopedia:Stun}Betäubungs{/g} und Blendgranaten.\n\nDieser besondere Helm trägt das Liliensymbol der Schwesternschaft, eine Ehre, die normalerweise jenen Schwestern vorbehalten ist, die außergewöhnlichen Mut bewiesen haben. Solche Insignien sieht man am häufigsten als Dekoration für die Ausrüstung von Eliteeinheiten der Celestianer."
+		}
+	}
+}

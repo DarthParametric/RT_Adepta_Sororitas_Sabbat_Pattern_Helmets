@@ -1,0 +1,34 @@
+{
+	"strings": {
+		"AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+			"Text": "アデプタ ソロリータス サバト パターン ヘルメット"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_Description": {
+			"text": "38 世紀中期以降、バトル シスターの大半が着用している標準パターンのヘルメットです。完全真空または汚染された大気中での限られた時間の操作を可能にする一体型リブリーザー、悪条件の戦場から着用者を保護するフル スペクトル フィルタリングとサイコ オキュラー バッファリング、フォト バイザー、プレサイト、ターゲッター、通信リンクなど、さまざまなサブシステムが装備されています。そのため、このヘルメットは侵入したユニットを明らかにし、高度な戦術的読み取りを提供します。さらに、サイキック無効化素材で作られており、サイカーやワープの力に対する防御を提供します。着用者は、{g|Encyclopedia:PsychicPowers}サイキック パワー{/g}によるダメージが −4% 減少し、遠距離ターゲットに対する {g|Encyclopedia:HitSequenceGlossary}命中率{/g}が +5%、{g|Encyclopedia:SkillAwareness}認識力{/g}が +10、{g|Encyclopedia:ToxinEffect}毒素{/g}に対する耐性が得られ、{g|Encyclopedia:Stun}スタン{/g}とフラッシュバン グレネードの効果を無視します。"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+			"Text": "アデプタ ソロリータス サバト パターン ヘルメット (セレスティアン)"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+			"text": "38 世紀中期以降、バトル シスターの大半が着用している標準パターンのヘルメットです。完全真空または汚染された大気中での限られた時間の操作を可能にする一体型リブリーザー、悪条件の戦場から着用者を保護するフル スペクトル フィルタリングとサイコ オキュラー バッファリング、フォト バイザー、プレサイト、ターゲッター、通信リンクなど、さまざまなサブシステムが装備されています。そのため、このヘルメットは侵入したユニットを明らかにし、高度な戦術的読み取りを提供します。さらに、サイキック無効化素材で作られており、サイカーやワープの力に対する防御を提供します。着用者は、{g|Encyclopedia:PsychicPowers}サイキック パワー{/g}によるダメージが -8% 減少し、遠距離攻撃に対する{g|Encyclopedia:HitSequenceGlossary}命中率{/g}が +10%、{g|Encyclopedia:SkillAwareness}Awareness{/g}が +15 増加し、{g|Encyclopedia:ToxinEffect}毒素{/g}の影響を受けなくなり、{g|Encyclopedia:Stun}スタン{/g}とフラッシュバン グレネードの効果を無視します。\n\nこのヘルメットには、姉妹団のユリのシンボルが描かれています。これは通常、並外れた勇気を発揮した姉妹に与えられる名誉です。このような装飾品は、エリート セレスティアン スクワッドの装備を飾っているのがよく見られます。"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+			"Text": "アデプタ ソロリータス サバト パターン ヘルメット (遺物)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+			"text": "38 世紀中期以降、バトル シスターの大半が着用している標準パターンのヘルメットです。完全真空または汚染された大気中での限られた時間の操作を可能にする一体型リブリーザー、悪条件の戦場から着用者を保護するフル スペクトル フィルタリングとサイコ オキュラー バッファリング、フォト バイザー、プレサイト、ターゲッター、通信リンクなど、さまざまなサブシステムが装備されています。そのため、このヘルメットは侵入したユニットを明らかにし、高度な戦術的読み取りを提供します。さらに、サイキック無効化素材で作られており、サイカーやワープの力に対する防御を提供します。着用者は、{g|Encyclopedia:PsychicPowers}サイキック パワー{/g}によるダメージが -12% 減少し、遠距離攻撃に対する{g|Encyclopedia:HitSequenceGlossary}命中率{/g}が +15%、{g|Encyclopedia:SkillAwareness}Awareness{/g}が +20 増加し、{g|Encyclopedia:ToxinEffect}毒素{/g}の影響を受けなくなり、{g|Encyclopedia:Stun}スタン{/g}とフラッシュバン グレネードの効果を無視します。\n\nこのヘルメットには、姉妹団のユリのシンボルが描かれています。これは通常、並外れた勇気を発揮した姉妹に与えられる名誉です。このような装飾品は、エリート セレスティアン スクワッドの装備を飾っているのがよく見られます。"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+			"Text": "アデプタ ソロリータス サバト パターン ヘルメット (聖別された聖人)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+			"text": "38 世紀中期以降、バトル シスターの大半が着用している標準パターンのヘルメットです。完全真空または汚染された大気中での限られた時間の操作を可能にする一体型リブリーザー、悪条件の戦場から着用者を保護するフル スペクトル フィルタリングとサイコ オキュラー バッファリング、フォト バイザー、プレサイト、ターゲッター、通信リンクなど、さまざまなサブシステムが装備されています。そのため、このヘルメットは侵入したユニットを明らかにし、高度な戦術的読み取りを提供します。さらに、サイキック無効化素材で作られており、サイカーやワープの力に対する防御を提供します。着用者は、{g|Encyclopedia:PsychicPowers}サイキック パワー{/g}によるダメージが -12% 減少し、遠距離攻撃に対する{g|Encyclopedia:HitSequenceGlossary}命中率{/g}が +15%、{g|Encyclopedia:SkillAwareness}Awareness{/g}が +20 増加し、{g|Encyclopedia:ToxinEffect}毒素{/g}の影響を受けなくなり、{g|Encyclopedia:Stun}スタン{/g}とフラッシュバン グレネードの効果を無視します。\n\nこのヘルメットには、姉妹団のユリのシンボルが描かれています。これは通常、並外れた勇気を発揮した姉妹に与えられる名誉です。このような装飾品は、エリート セレスティアン スクワッドの装備を飾っているのがよく見られます。"
+		}
+	}
+}

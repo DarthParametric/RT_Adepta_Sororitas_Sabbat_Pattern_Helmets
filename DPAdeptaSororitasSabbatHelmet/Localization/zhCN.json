@@ -1,0 +1,34 @@
+{
+    "strings": {
+        "AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+            "Text": "圣女会萨巴特式头盔"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Item_Description": {
+            "text": "自38千年中期以来，这款标准式样头盔就被大多数战斗修女所使用。它配备了多个子系统，包括一个集成的再呼吸器，可在真空或污染环境中短时间运作；全频谱过滤和心理-视觉缓冲系统可保护佩戴者免受不利战场环境影响；还包括照明镜、猎物视觉、瞄准器和通讯链路。因此，这款头盔能够揭示潜伏单位并提供先进的战术数据。此外，它由抑制灵能的材料制成，可提供对灵能者和亚空间力量的防护。佩戴者受到{g|Encyclopedia:PsychicPowers}灵能力量{/g}伤害减少4%，获得+5%远程{g|Encyclopedia:HitSequenceGlossary}命中{/g}几率，+10{g|Encyclopedia:SkillAwareness}警觉{/g}，免疫{g|Encyclopedia:ToxinEffect}毒素{/g}，并无视{g|Encyclopedia:Stun}震慑{/g}和闪光弹效果。"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+            "Text": "在此插入特色文本"
+        },
+        "AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+            "Text": "圣女会萨巴特式头盔（天堂卫士）"
+        },
+        "AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+            "text": "自38千年中期以来，这款标准式样头盔就被大多数战斗修女所使用。它配备了多个子系统，包括一个集成的再呼吸器，可在真空或污染环境中短时间运作；全频谱过滤和心理-视觉缓冲系统可保护佩戴者免受不利战场环境影响；还包括照明镜、猎物视觉、瞄准器和通讯链路。因此，这款头盔能够揭示潜伏单位并提供先进的战术数据。此外，它由抑制灵能的材料制成，可提供对灵能者和亚空间力量的防护。佩戴者受到{g|Encyclopedia:PsychicPowers}灵能力量{/g}伤害减少8%，获得+10%远程{g|Encyclopedia:HitSequenceGlossary}命中{/g}几率，+15{g|Encyclopedia:SkillAwareness}警觉{/g}，免疫{g|Encyclopedia:ToxinEffect}毒素{/g}，并无视{g|Encyclopedia:Stun}震慑{/g}和闪光弹效果。\n\n这顶特殊的头盔上刻有修女会的百合花徽记，这种荣誉通常只授予表现出非凡勇气的修女。这种装饰最常见于精英天堂卫士小队的装备上。"
+        },
+        "AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+            "Text": "在此插入特色文本"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+            "Text": "圣女会萨巴特式头盔（圣物）"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+            "text": "自38千年中期以来，这款标准式样头盔就被大多数战斗修女所使用。它配备了多个子系统，包括一个集成的再呼吸器，可在真空或污染环境中短时间运作；全频谱过滤和心理-视觉缓冲系统可保护佩戴者免受不利战场环境影响；还包括照明镜、猎物视觉、瞄准器和通讯链路。因此，这款头盔能够揭示潜伏单位并提供先进的战术数据。此外，它由抑制灵能的材料制成，可提供对灵能者和亚空间力量的防护。佩戴者受到{g|Encyclopedia:PsychicPowers}灵能力量{/g}伤害减少12%，获得+15%远程{g|Encyclopedia:HitSequenceGlossary}命中{/g}几率，+20{g|Encyclopedia:SkillAwareness}警觉{/g}，免疫{g|Encyclopedia:ToxinEffect}毒素{/g}，并无视{g|Encyclopedia:Stun}震慑{/g}和闪光弹效果。\n\n这顶特殊的头盔上刻有修女会的百合花徽记，这种荣誉通常只授予表现出非凡勇气的修女。这种装饰最常见于精英天堂卫士小队的装备上。"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+            "Text": "圣女会萨巴特式头盔（受膏圣徒）"
+        },
+        "AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+            "text": "自38千年中期以来，这款标准式样头盔就被大多数战斗修女所使用。它配备了多个子系统，包括一个集成的再呼吸器，可在真空或污染环境中短时间运作；全频谱过滤和心理-视觉缓冲系统可保护佩戴者免受不利战场环境影响；还包括照明镜、猎物视觉、瞄准器和通讯链路。因此，这款头盔能够揭示潜伏单位并提供先进的战术数据。此外，它由抑制灵能的材料制成，可提供对灵能者和亚空间力量的防护。佩戴者受到{g|Encyclopedia:PsychicPowers}灵能力量{/g}伤害减少12%，获得+15%远程{g|Encyclopedia:HitSequenceGlossary}命中{/g}几率，+20{g|Encyclopedia:SkillAwareness}警觉{/g}，免疫{g|Encyclopedia:ToxinEffect}毒素{/g}，并无视{g|Encyclopedia:Stun}震慑{/g}和闪光弹效果。\n\n这顶特殊的头盔上刻有修女会的百合花徽记，这种荣誉通常只授予表现出非凡勇气的修女。这种装饰最常见于精英天堂卫士小队的装备上。"
+        }
+    }
+}

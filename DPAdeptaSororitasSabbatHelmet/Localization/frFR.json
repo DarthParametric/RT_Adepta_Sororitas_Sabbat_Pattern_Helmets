@@ -1,0 +1,34 @@
+{
+	"strings": {
+		"AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+			"Text": "Casque à motif de Sabbat Adepta Sororitas"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_Description": {
+			"text": "Casque de modèle standard porté par la majorité des Battle Sisters depuis le milieu du 38e millénaire, il est équipé de divers sous-systèmes, dont un recycleur intégral qui permet un fonctionnement dans le vide total ou dans des atmosphères contaminées pendant des périodes limitées, un filtrage à spectre complet et une protection psycho-oculaire qui protège le porteur contre les conditions défavorables du champ de bataille, un Photo-Visor, un Preysight, un Targeter et un comm-link. En tant que tel, le casque révèle les unités infiltrées et fournit des lectures tactiques avancées. De plus, il est fabriqué à partir de matériaux psy-nullifiants pour fournir une certaine défense contre les psykers et les pouvoirs du Warp. Le porteur subit −4% de dégâts en moins {g|Encyclopedia:PsychicPowers}pouvoirs psychiques{/g}, gagne +5% {g|Encyclopedia:HitSequenceGlossary}chance de toucher{/g} contre des cibles à distance, +10 {g|Encyclopedia:SkillAwareness}Conscience{/g}, devient immunisé contre {g|Encyclopedia:ToxinEffect}toxine{/g}, et ignore les effets de {g|Encyclopedia:Stun}assourdissante{/g} et des grenades assourdissantes."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+			"Text": "Casque à motif de Sabbat Adepta Sororitas (Célestien)"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+			"text": "Casque de modèle standard porté par la majorité des Battle Sisters depuis le milieu du 38e millénaire, il est équipé de divers sous-systèmes, dont un recycleur intégral qui permet un fonctionnement dans le vide total ou dans des atmosphères contaminées pendant des périodes limitées, un filtrage à spectre complet et une protection psycho-oculaire qui protège le porteur contre les conditions défavorables du champ de bataille, un Photo-Visor, un Preysight, un Targeter et un comm-link. En tant que tel, le casque révèle les unités infiltrées et fournit des lectures tactiques avancées. De plus, il est fabriqué à partir de matériaux psy-annulateurs pour fournir une certaine défense contre les psykers et les pouvoirs du Warp. Le porteur subit −8% de dégâts en moins {g|Encyclopedia:PsychicPowers}pouvoirs psychiques{/g}, gagne +10% {g|Encyclopedia:HitSequenceGlossary}chance de toucher{/g} contre des cibles à distance, +15 {g|Encyclopedia:SkillAwareness}Conscience{/g}, devient immunisé contre {g|Encyclopedia:ToxinEffect}toxine{/g}, et ignore les effets de {g|Encyclopedia:Stun}assourdissante{/g} et des grenades assourdissantes.\n\nCe casque particulier porte la fleur de lys, symbole de la Confrérie, un honneur normalement réservé aux sœurs qui ont fait preuve d'un courage exceptionnel. Ce type d'insigne orne généralement l'équipement des escouades d'élite Célestien."
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+			"Text": "Casque à motif de Sabbat Adepta Sororitas (Relique)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+			"text": "Casque de modèle standard porté par la majorité des Battle Sisters depuis le milieu du 38e millénaire, il est équipé de divers sous-systèmes, dont un recycleur intégral qui permet un fonctionnement dans le vide total ou dans des atmosphères contaminées pendant des périodes limitées, un filtrage à spectre complet et une protection psycho-oculaire qui protège le porteur contre les conditions défavorables du champ de bataille, un Photo-Visor, un Preysight, un Targeter et un comm-link. En tant que tel, le casque révèle les unités infiltrées et fournit des lectures tactiques avancées. De plus, il est fabriqué à partir de matériaux psy-annulateurs pour fournir une certaine défense contre les psykers et les pouvoirs du Warp. Le porteur subit −12% de dégâts en moins {g|Encyclopedia:PsychicPowers}pouvoirs psychiques{/g}, gagne +15% {g|Encyclopedia:HitSequenceGlossary}chance de toucher{/g} contre des cibles à distance, +20 {g|Encyclopedia:SkillAwareness}Conscience{/g}, devient immunisé contre {g|Encyclopedia:ToxinEffect}toxine{/g}, et ignore les effets de {g|Encyclopedia:Stun}assourdissante{/g} et des grenades assourdissantes.\n\nCe casque particulier porte la fleur de lys, symbole de la Confrérie, un honneur normalement réservé aux sœurs qui ont fait preuve d'un courage exceptionnel. Ce type d'insigne orne généralement l'équipement des escouades d'élite Célestien."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+			"Text": "Casque à motif de Sabbat Adepta Sororitas (Saint Oint)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+			"text": "Casque de modèle standard porté par la majorité des Battle Sisters depuis le milieu du 38e millénaire, il est équipé de divers sous-systèmes, dont un recycleur intégral qui permet un fonctionnement dans le vide total ou dans des atmosphères contaminées pendant des périodes limitées, un filtrage à spectre complet et une protection psycho-oculaire qui protège le porteur contre les conditions défavorables du champ de bataille, un Photo-Visor, un Preysight, un Targeter et un comm-link. En tant que tel, le casque révèle les unités infiltrées et fournit des lectures tactiques avancées. De plus, il est fabriqué à partir de matériaux psy-annulateurs pour fournir une certaine défense contre les psykers et les pouvoirs du Warp. Le porteur subit −12% de dégâts en moins {g|Encyclopedia:PsychicPowers}pouvoirs psychiques{/g}, gagne +15% {g|Encyclopedia:HitSequenceGlossary}chance de toucher{/g} contre des cibles à distance, +20 {g|Encyclopedia:SkillAwareness}Conscience{/g}, devient immunisé contre {g|Encyclopedia:ToxinEffect}toxine{/g}, et ignore les effets de {g|Encyclopedia:Stun}assourdissante{/g} et des grenades assourdissantes.\n\nCe casque particulier porte la fleur de lys, symbole de la Confrérie, un honneur normalement réservé aux sœurs qui ont fait preuve d'un courage exceptionnel. Ce type d'insigne orne généralement l'équipement des escouades d'élite Célestien."
+		}
+	}
+}

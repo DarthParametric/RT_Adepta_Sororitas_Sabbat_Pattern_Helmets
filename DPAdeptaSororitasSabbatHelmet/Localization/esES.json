@@ -1,0 +1,34 @@
+{
+	"strings": {
+		"AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+			"Text": "Casco con patrón Sabbat de Adepta Sororitas"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_Description": {
+			"text": "El casco de diseño estándar que llevan la mayoría de las Hermanas de Batalla desde mediados del 38.º Milenio, está equipado con varios subsistemas, entre ellos un respirador integrado que permite el funcionamiento en vacío total o atmósferas contaminadas durante períodos limitados, filtrado de espectro completo y amortiguación psicoocular que protege al usuario contra condiciones adversas en el campo de batalla, un visor fotográfico, un visor de presa, un apuntador y un enlace de comunicación. Como tal, el casco revela unidades infiltradas y proporciona lecturas tácticas avanzadas. Además, está fabricado con materiales anuladores de psi para proporcionar cierta defensa contra los psíquicos y los poderes de la Disformidad. El portador sufre −4% menos de daño de {g|Encyclopedia:PsychicPowers}poderes psíquicos{/g}, obtiene +5% de probabilidad de {g|Encyclopedia:HitSequenceGlossary}golpe{/g} contra objetivos a distancia, +10 de {g|Encyclopedia:SkillAwareness}Conciencia{/g}, se vuelve inmune a la {g|Encyclopedia:ToxinEffect}toxina{/g} e ignora los efectos de las granadas {g|Encyclopedia:Stun}aturdimiento{/g} y aturdimiento."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+			"Text": "Casco con patrón Sabbat de Adepta Sororitas (Celestian)"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+			"text": "El casco de diseño estándar que llevan la mayoría de las Hermanas de Batalla desde mediados del 38.º Milenio, está equipado con varios subsistemas, entre ellos un respirador integrado que permite el funcionamiento en vacío total o atmósferas contaminadas durante períodos limitados, filtrado de espectro completo y amortiguación psicoocular que protege al usuario contra condiciones adversas en el campo de batalla, un visor fotográfico, un visor de presa, un apuntador y un enlace de comunicación. Como tal, el casco revela unidades infiltradas y proporciona lecturas tácticas avanzadas. Además, está fabricado con materiales anuladores de psi para proporcionar cierta defensa contra los psíquicos y los poderes de la Disformidad. El portador sufre un −8% menos de daño de los {g|Encyclopedia:PsychicPowers}poderes psíquicos{/g}, obtiene un +10% de probabilidad de {g|Encyclopedia:HitSequenceGlossary}golpe{/g} contra objetivos a distancia, +15 de {g|Encyclopedia:SkillAwareness}Conciencia{/g}, se vuelve inmune a las {g|Encyclopedia:ToxinEffect}toxinas{/g} e ignora los efectos de las granadas {g|Encyclopedia:Stun}aturdimiento{/g} y las granadas cegadoras.\n\nEste casco en particular lleva el símbolo de la flor de lis de la Hermandad, un honor normalmente reservado para aquellas Hermanas que han actuado con un coraje excepcional. Este tipo de atuendos se ven con más frecuencia adornando el equipo de los escuadrones Celestian de élite."
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+			"Text": "Casco con patrón Sabbat de Adepta Sororitas (Reliquia)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+			"text": "El casco de diseño estándar que llevan la mayoría de las Hermanas de Batalla desde mediados del 38.º Milenio, está equipado con varios subsistemas, entre ellos un respirador integrado que permite el funcionamiento en vacío total o atmósferas contaminadas durante períodos limitados, filtrado de espectro completo y amortiguación psicoocular que protege al usuario contra condiciones adversas en el campo de batalla, un visor fotográfico, un visor de presa, un apuntador y un enlace de comunicación. Como tal, el casco revela unidades infiltradas y proporciona lecturas tácticas avanzadas. Además, está fabricado con materiales anuladores de psi para proporcionar cierta defensa contra los psíquicos y los poderes de la Disformidad. El portador sufre un −12% menos de daño de los {g|Encyclopedia:PsychicPowers}poderes psíquicos{/g}, obtiene un +15% de probabilidad de {g|Encyclopedia:HitSequenceGlossary}golpe{/g} contra objetivos a distancia, +20 de {g|Encyclopedia:SkillAwareness}Conciencia{/g}, se vuelve inmune a las {g|Encyclopedia:ToxinEffect}toxinas{/g} e ignora los efectos de las granadas {g|Encyclopedia:Stun}aturdimiento{/g} y las granadas cegadoras.\n\nEste casco en particular lleva el símbolo de la flor de lis de la Hermandad, un honor normalmente reservado para aquellas Hermanas que han actuado con un coraje excepcional. Este tipo de atuendos se ven con más frecuencia adornando el equipo de los escuadrones Celestian de élite."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+			"Text": "Casco de la Adepta Sororitas con diseño Sabbat (Santo Ungido)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+			"text": "El casco de diseño estándar que llevan la mayoría de las Hermanas de Batalla desde mediados del 38.º Milenio, está equipado con varios subsistemas, entre ellos un respirador integrado que permite el funcionamiento en vacío total o atmósferas contaminadas durante períodos limitados, filtrado de espectro completo y amortiguación psicoocular que protege al usuario contra condiciones adversas en el campo de batalla, un visor fotográfico, un visor de presa, un apuntador y un enlace de comunicación. Como tal, el casco revela unidades infiltradas y proporciona lecturas tácticas avanzadas. Además, está fabricado con materiales anuladores de psi para proporcionar cierta defensa contra los psíquicos y los poderes de la Disformidad. El portador sufre un −12% menos de daño de los {g|Encyclopedia:PsychicPowers}poderes psíquicos{/g}, obtiene un +15% de probabilidad de {g|Encyclopedia:HitSequenceGlossary}golpe{/g} contra objetivos a distancia, +20 de {g|Encyclopedia:SkillAwareness}Conciencia{/g}, se vuelve inmune a las {g|Encyclopedia:ToxinEffect}toxinas{/g} e ignora los efectos de las granadas {g|Encyclopedia:Stun}aturdimiento{/g} y las granadas cegadoras.\n\nEste casco en particular lleva el símbolo de la flor de lis de la Hermandad, un honor normalmente reservado para aquellas Hermanas que han actuado con un coraje excepcional. Este tipo de atuendos se ven con más frecuencia adornando el equipo de los escuadrones Celestian de élite."
+		}
+	}
+}

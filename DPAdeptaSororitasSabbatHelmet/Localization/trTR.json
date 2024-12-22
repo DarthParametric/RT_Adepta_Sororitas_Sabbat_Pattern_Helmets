@@ -1,0 +1,34 @@
+{
+	"strings": {
+		"AdeptaSororitasHelmetSabbatDP_Item_DisplayName": {
+			"Text": "Adepta Sororitas Sabbat Desenli Kask"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_Description": {
+			"text": "Battle Sisters'ın çoğunluğunun 38. Milenyumun ortalarından beri giydiği standart model kask, sınırlı süreler boyunca tam vakumda veya kirli atmosferlerde çalışmaya izin veren entegre bir rebreather, kullanıcıyı olumsuz savaş alanı koşullarına karşı koruyan tam spektrum filtreleme ve psiko-oküler tamponlama, bir Foto-Visor, Preysight, Targeter ve iletişim bağlantısı dahil olmak üzere çeşitli alt sistemlerle donatılmıştır. Bu nedenle, kask sızmış birimleri ortaya çıkarır ve gelişmiş taktiksel okumalar sağlar. Ek olarak, psikerlere ve Warp güçlerine karşı bir miktar savunma sağlamak için psi-nötrleştirici malzemelerden üretilmiştir. Giyen kişi {g|Encyclopedia:PsychicPowers}psişik güçlerden{/g} %4 daha az hasar alır, menzilli hedeflere karşı +%5 {g|Encyclopedia:HitSequenceGlossary}isabet{/g} şansı kazanır, +10 {g|Encyclopedia:SkillAwareness}Farkındalık{/g} kazanır, {g|Encyclopedia:ToxinEffect}toksin{/g}'e karşı bağışıklık kazanır ve {g|Encyclopedia:Stun}sersemletme{/g} ve flaş bombası bombalarının etkilerini yok sayar."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName": {
+			"Text": "Adepta Sororitas Sabbat Desenli Kask (Celestian)"
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_Description": {
+			"text": "Battle Sisters'ın çoğunluğunun 38. Milenyumun ortalarından beri giydiği standart model kask, sınırlı süreler boyunca tam vakumda veya kirli atmosferlerde çalışmaya izin veren entegre bir rebreather, kullanıcıyı olumsuz savaş alanı koşullarına karşı koruyan tam spektrum filtreleme ve psiko-oküler tamponlama, bir Foto-Visor, Preysight, Targeter ve iletişim bağlantısı dahil olmak üzere çeşitli alt sistemlerle donatılmıştır. Bu nedenle, kask sızmış birimleri ortaya çıkarır ve gelişmiş taktiksel okumalar sağlar. Ek olarak, psikerlere ve Warp güçlerine karşı bir miktar savunma sağlamak için psi-nötrleştirici malzemelerden üretilmiştir. Giyen kişi {g|Encyclopedia:PsychicPowers}psişik güçlerden{/g} -%8 daha az hasar alır, menzilli hedeflere karşı +%10 {g|Encyclopedia:HitSequenceGlossary}isabet{/g} şansı kazanır, +15 {g|Encyclopedia:SkillAwareness}Farkındalık{/g} kazanır, {g|Encyclopedia:ToxinEffect}toksine{/g} karşı bağışıklık kazanır ve {g|Encyclopedia:Stun}sersemletme{/g} ve flaş bombası etkilerini yok sayar.\n\nBu özel miğfer, normalde olağanüstü cesaretle performans gösteren Rahibelere ayrılmış bir onur olan Rahibeliğin fleur-de-lys sembolünü taşır. Bu tür kıyafetler genellikle seçkin Celestian birliklerinin ekipmanlarını süslerken görülür."
+		},
+		"AdeptaSororitasHelmetSabbatHoodDP_Item_FlavorText": {
+			"Text": "INSERT FLAVOUR TEXT HERE"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_DisplayName": {
+			"Text": "Adepta Sororitas Sabbat Desenli Kask (Kalıntı)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Relic_Item_Description": {
+			"text": "Battle Sisters'ın çoğunluğunun 38. Milenyumun ortalarından beri giydiği standart model kask, sınırlı süreler boyunca tam vakumda veya kirli atmosferlerde çalışmaya izin veren entegre bir rebreather, kullanıcıyı olumsuz savaş alanı koşullarına karşı koruyan tam spektrum filtreleme ve psiko-oküler tamponlama, bir Foto-Visor, Preysight, Targeter ve iletişim bağlantısı dahil olmak üzere çeşitli alt sistemlerle donatılmıştır. Bu nedenle, kask sızmış birimleri ortaya çıkarır ve gelişmiş taktiksel okumalar sağlar. Ek olarak, psikerlere ve Warp güçlerine karşı bir miktar savunma sağlamak için psi-nötrleştirici malzemelerden üretilmiştir. Giyen kişi {g|Encyclopedia:PsychicPowers}psişik güçlerden{/g} -%12 daha az hasar alır, menzilli hedeflere karşı +%15 {g|Encyclopedia:HitSequenceGlossary}isabet{/g} şansı kazanır, +20 {g|Encyclopedia:SkillAwareness}Farkındalık{/g} kazanır, {g|Encyclopedia:ToxinEffect}toksine{/g} karşı bağışıklık kazanır ve {g|Encyclopedia:Stun}sersemletme{/g} ve flaş bombası etkilerini yok sayar.\n\nBu özel miğfer, normalde olağanüstü cesaretle performans gösteren Rahibelere ayrılmış bir onur olan Rahibeliğin fleur-de-lys sembolünü taşır. Bu tür kıyafetler genellikle seçkin Celestian birliklerinin ekipmanlarını süslerken görülür."
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_DisplayName": {
+			"Text": "Adepta Sororitas Sabbat Desenli Kask (Meshedilmiş Aziz)"
+		},
+		"AdeptaSororitasHelmetSabbatDP_Saint_Item_Description": {
+			"text": "Battle Sisters'ın çoğunluğunun 38. Milenyumun ortalarından beri giydiği standart model kask, sınırlı süreler boyunca tam vakumda veya kirli atmosferlerde çalışmaya izin veren entegre bir rebreather, kullanıcıyı olumsuz savaş alanı koşullarına karşı koruyan tam spektrum filtreleme ve psiko-oküler tamponlama, bir Foto-Visor, Preysight, Targeter ve iletişim bağlantısı dahil olmak üzere çeşitli alt sistemlerle donatılmıştır. Bu nedenle, kask sızmış birimleri ortaya çıkarır ve gelişmiş taktiksel okumalar sağlar. Ek olarak, psikerlere ve Warp güçlerine karşı bir miktar savunma sağlamak için psi-nötrleştirici malzemelerden üretilmiştir. Giyen kişi {g|Encyclopedia:PsychicPowers}psişik güçlerden{/g} -%12 daha az hasar alır, menzilli hedeflere karşı +%15 {g|Encyclopedia:HitSequenceGlossary}isabet{/g} şansı kazanır, +20 {g|Encyclopedia:SkillAwareness}Farkındalık{/g} kazanır, {g|Encyclopedia:ToxinEffect}toksine{/g} karşı bağışıklık kazanır ve {g|Encyclopedia:Stun}sersemletme{/g} ve flaş bombası etkilerini yok sayar.\n\nBu özel miğfer, normalde olağanüstü cesaretle performans gösteren Rahibelere ayrılmış bir onur olan Rahibeliğin fleur-de-lys sembolünü taşır. Bu tür kıyafetler genellikle seçkin Celestian birliklerinin ekipmanlarını süslerken görülür."
+		}
+	}
+}
