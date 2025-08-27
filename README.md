@@ -1,6 +1,8 @@
 #  Adepta Sororitas Sabbat-Pattern Helmets
 A mod for Owlcat's Rogue Trader cRPG. Adds several Sabbat-pattern helmets for Argenta (or mod-added Sororitas background RTs) throughout the game.
 
+***N.B.: As of patch 1.4.0.195, Owlcat have officially added the pre-release Sabbat-pattern helmet, effectively making this mod obsolete.***
+
 ## Overview
 This mod adds the familiar Sabbat-pattern helmet employed by the Adepta Sororitas. Owlcat did initially showcase Argenta wearing one in the pre-release trailers, but for whatever reason this was removed and no longer exists in the game files. This is a new model made by me (although a hooded version uses one of Owlcat's hood models).
 
