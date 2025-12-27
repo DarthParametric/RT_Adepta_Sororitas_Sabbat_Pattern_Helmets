@@ -4,68 +4,10 @@
   "ArrayPatches": [
     {
       "FieldName": "Action.Actions",
-      "OperationType": "RemoveElement",
-      "Value": {
-        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
-        "name": "$AddItemToPlayer$b5f99df5-f10b-464d-96ad-73e54373f32d",
-        "m_ItemToGive": "!bp_eb8c58901bb049ec9ad3775c31eeabfe",
-        "Silent": false,
-        "Quantity": 1,
-        "Identify": false,
-        "Equip": true,
-        "EquipOn": {
-          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
-          "name": "$CompanionInParty$62736a52-cb2c-4d19-980a-584cbeccd4d8",
-          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
-          "IncludeActive": true,
-          "IncludeDetached": false,
-          "IncludeRemote": false,
-          "IncludeExCompanions": false,
-          "IncludeDead": false,
-          "Index": 0
-        },
-        "PreferredWeaponSet": 0,
-        "m_Hand": "Any",
-        "ForceEquip": false,
-        "ErrorIfDidNotEquip": true
-      },
-      "TargetValue": null
-    },
-    {
-      "FieldName": "Action.Actions",
-      "OperationType": "InsertAtBeginning",
-      "Value": {
-        "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
-        "name": "$AddItemToPlayer$eda77ecf2d954891aa66e94f93fc784e",
-        "m_ItemToGive": "!bp_eb8c58901bb049ec9ad3775c31eeabfe",
-        "Silent": false,
-        "Quantity": 1,
-        "Identify": false,
-        "Equip": true,
-        "EquipOn": {
-          "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
-          "name": "$CompanionInParty$dbb48a0ca700404eb92e1e55c4a8b4a2",
-          "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
-          "IncludeActive": true,
-          "IncludeDetached": true,
-          "IncludeRemote": true,
-          "IncludeExCompanions": true,
-          "IncludeDead": false,
-          "Index": 0
-        },
-        "PreferredWeaponSet": 0,
-        "m_Hand": "Any",
-        "ForceEquip": false,
-        "ErrorIfDidNotEquip": true
-      },
-      "TargetValue": null
-    },
-    {
-      "FieldName": "Action.Actions",
       "OperationType": "InsertAfterElement",
       "Value": {
         "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
-        "name": "$AddItemToPlayer$42a3d0fe7cfd4d30a06ac525c4a29db5",
+        "name": "$AddItemToPlayer$574e53027a8e47d98720dc91e05c31f2",
         "m_ItemToGive": "!bp_4ee4c74d5e7e4f60a11bbaaa339d27e6",
         "Silent": false,
         "Quantity": 1,
@@ -73,7 +15,7 @@
         "Equip": true,
         "EquipOn": {
           "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
-          "name": "$CompanionInParty$70c3c015633849ffa91fc7ca7b269051",
+          "name": "$CompanionInParty$0c360aaa82f54db1be4370b71ac3aed5",
           "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
           "IncludeActive": true,
           "IncludeDetached": true,
@@ -89,7 +31,7 @@
       },
       "TargetValue": {
         "$type": "1f1c883ef085c5c4b877eeb4c5da318c, AddItemToPlayer",
-        "name": "$AddItemToPlayer$eda77ecf2d954891aa66e94f93fc784e",
+        "name": "$AddItemToPlayer$b5f99df5-f10b-464d-96ad-73e54373f32d",
         "m_ItemToGive": "!bp_eb8c58901bb049ec9ad3775c31eeabfe",
         "Silent": false,
         "Quantity": 1,
@@ -97,7 +39,7 @@
         "Equip": true,
         "EquipOn": {
           "$type": "7aafe88b061e08e44aa3e725e8d8ff00, CompanionInParty",
-          "name": "$CompanionInParty$dbb48a0ca700404eb92e1e55c4a8b4a2",
+          "name": "$CompanionInParty$62736a52-cb2c-4d19-980a-584cbeccd4d8",
           "m_Companion": "!bp_ec7f34b2ef6d4624af3e5024f4fc8e6e",
           "IncludeActive": true,
           "IncludeDetached": true,

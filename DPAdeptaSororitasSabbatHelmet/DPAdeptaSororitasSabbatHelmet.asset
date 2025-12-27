@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: DPAdeptaSororitasSabbatHelmet
-    Version: 1.0.4
+    Version: 1.0.5
     DisplayName: Adepta Sororitas Sabbat-Pattern Helmets
     Description: Adds several Sabbat-pattern helmets for Argenta
     Author: DarthParametric
@@ -22,7 +22,7 @@ MonoBehaviour:
     HomePage: https://www.nexusmods.com/warhammer40kroguetrader/mods/178
     Dependencies:
     - Name: MicroPatches
-      Version: 1.20
+      Version: 1.21
   Settings:
     RelativeThumbnailPath: 
     WorkshopDescription: 

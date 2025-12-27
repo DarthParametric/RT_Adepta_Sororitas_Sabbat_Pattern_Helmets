@@ -9,23 +9,30 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2086151842, guid: 69f833fb01395eb49b867d102184ee2e, type: 3}
+  m_Script: {fileID: -2086151842, guid: fbded70dbca23764f9de130a41c8eed4, type: 3}
   m_Name: EE_AdeptaSororitasSabbatHelmetDP_F_HM
   m_EditorClassIdentifier: 
   IsExportEnabled: 0
   CantBeHiddenByDollRoom: 0
   ShowAboveAllIgnoreLayer: 0
+  m_RequiresDlc:
+    guid: 
   Layer: 200
   m_HideBodyParts: 17624465546
   ShowLowerMaterials: 1
+  isOnlyRightBP: 0
   SkeletonModifiers: []
-  PrimaryColorsProfile: {fileID: 0}
-  SecondaryColorsProfile: {fileID: 0}
+  PrimaryColorsProfile: {fileID: 11400000, guid: b252c30be466f4041bc36507b2a089ad,
+    type: 2}
+  SecondaryColorsProfile: {fileID: 11400000, guid: b252c30be466f4041bc36507b2a089ad,
+    type: 2}
   BakedTextures: {fileID: 0}
   PreviewTexture: {fileID: 0}
   ColorPresets: {fileID: 0}
-  m_PrimaryRamps: []
-  m_SecondaryRamps: []
+  m_PrimaryRamps:
+  - {fileID: 2800000, guid: c1669e5cb554e4c4b9d6d1a81ea14e61, type: 3}
+  m_SecondaryRamps:
+  - {fileID: 2800000, guid: c1669e5cb554e4c4b9d6d1a81ea14e61, type: 3}
   BodyParts:
   - m_Type: 256
     RendererPrefab: {fileID: 919132149155446097, guid: 2f213bfa1bb154a4284b96e1c2766620,

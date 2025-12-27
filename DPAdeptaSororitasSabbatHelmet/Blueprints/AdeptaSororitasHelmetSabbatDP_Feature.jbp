@@ -7,7 +7,7 @@
     "Components": [
       {
         "$type": "245250259ef6425787b71c6fa1b493d5, AddDamageTypeImmunity",
-        "name": "$AddDamageTypeImmunity$d9a6be22-1336-4343-b204-0d3a60588a72",
+        "name": "$AddDamageTypeImmunity$1783e708-7758-453b-9d4c-cc31a0072633",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -21,7 +21,7 @@
       },
       {
         "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$6a23523e-bf3f-4a06-80bf-214773f48dc5",
+        "name": "$SpecificBuffImmunity$bfc59452-9054-4980-bbb9-34946a2b17d0",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -36,7 +36,7 @@
       },
       {
         "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$f8cb46da-1fb3-4955-8f28-6a3988919be3",
+        "name": "$SpecificBuffImmunity$e3857c5e-3fdb-4b40-b566-800b603b67f5",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -51,7 +51,7 @@
       },
       {
         "$type": "428580af48b84509b97be533f03c7759, WarhammerHitChanceModifierInitiator",
-        "name": "$WarhammerHitChanceModifierInitiator$3b3f2610-03a2-4187-b17f-57af405e021d",
+        "name": "$WarhammerHitChanceModifierInitiator$a1a5f3f6-b051-4efe-b257-9c80f2aa61aa",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -62,11 +62,12 @@
           "Property": {
             "Operation": "BoolAnd",
             "TargetType": "RuleInitiator",
+            "TargetEvaluator": null,
             "FailSilentlyIfNoTarget": false,
             "Getters": [
               {
                 "$type": "402f67d675fd4705bed57b358df0798d, CheckAbilityIsBurstGetter",
-                "name": "$CheckAbilityIsBurstGetter$b4ff32c3-ac30-4c99-b5a3-e207a3dbb852",
+                "name": "$CheckAbilityIsBurstGetter$ff8e41e50e7249bfbfdaca56ff764155",
                 "Settings": {
                   "Progression": "AsIs",
                   "m_CustomProgression": [],
@@ -80,7 +81,7 @@
               },
               {
                 "$type": "88a988badcc84ea8847e21626bee82e5, PropertyCalculatorGetter",
-                "name": "$PropertyCalculatorGetter$ff903540-a777-41b8-a185-b689d76bf8b5",
+                "name": "$PropertyCalculatorGetter$38ff59afb57a440b870767bf190fcdb9",
                 "Settings": {
                   "Progression": "AsIs",
                   "m_CustomProgression": [],
@@ -94,11 +95,12 @@
                 "Value": {
                   "Operation": "GE",
                   "TargetType": "CurrentEntity",
+                  "TargetEvaluator": null,
                   "FailSilentlyIfNoTarget": false,
                   "Getters": [
                     {
                       "$type": "8cc2fc2a697041af82344696abdf3c4d, DistanceGetter",
-                      "name": "$DistanceGetter$d732e5eb-2b58-413e-ba90-afde461aaa3c",
+                      "name": "$DistanceGetter$e43bb25b6e744ebe8b7b68d8827d601b",
                       "Settings": {
                         "Progression": "AsIs",
                         "m_CustomProgression": [],
@@ -113,7 +115,7 @@
                     },
                     {
                       "$type": "71959818449d4891939b89c19a6d9a91, ContextValueGetter",
-                      "name": "$ContextValueGetter$05561a92-e8ee-45d7-93e7-7beb77809db8",
+                      "name": "$ContextValueGetter$318bb38153f24722b55799ad4db1b465",
                       "Settings": {
                         "Progression": "AsIs",
                         "m_CustomProgression": [],
@@ -177,11 +179,14 @@
           "m_CustomProperty": null,
           "PropertyName": "Value1"
         },
-        "AutoCrit": false
+        "AutoHit": false,
+        "AutoCrit": false,
+        "NeverCrit": false,
+        "CoverHitAutoResult": "None"
       },
       {
         "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
-        "name": "$AddContextStatBonus$dfc139d3-9008-4999-902a-759fb563b9ba",
+        "name": "$AddContextStatBonus$a7a311a5-6697-41ff-97b5-8b3bd6ea5c83",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -192,6 +197,7 @@
           "Property": {
             "Operation": "Sum",
             "TargetType": "CurrentEntity",
+            "TargetEvaluator": null,
             "FailSilentlyIfNoTarget": false,
             "Getters": []
           }
@@ -214,7 +220,7 @@
       },
       {
         "$type": "c0a2f956ae0c481c8f8d1468d1ba6212, WarhammerModifyIncomingAttackDamage",
-        "name": "$WarhammerModifyIncomingAttackDamage$1fe1be62-df46-4203-92ca-c54fd1e4ae96",
+        "name": "$WarhammerModifyIncomingAttackDamage$dcaa0f36-9d1b-406c-b3b6-587ed56de1be",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -225,11 +231,12 @@
           "Property": {
             "Operation": "Sum",
             "TargetType": "CurrentEntity",
+            "TargetEvaluator": null,
             "FailSilentlyIfNoTarget": false,
             "Getters": [
               {
                 "$type": "6a45c42d96204b7d930bd97fa922b35d, CheckAbilityGroupGetter",
-                "name": "$CheckAbilityGroupGetter$b89eec08-03e8-4340-91ee-ce32f9446012",
+                "name": "$CheckAbilityGroupGetter$dafab544bb7644aea8ec9c42a7b47412",
                 "Settings": {
                   "Progression": "AsIs",
                   "m_CustomProgression": [],
@@ -330,7 +337,7 @@
       },
       {
         "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$9f74f7f9-5861-4642-a250-11d3f35ca4ee",
+        "name": "$SpecificBuffImmunity$ddf0c4f6-0ff8-4a91-86d1-1ae308eaea18",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -345,7 +352,7 @@
       },
       {
         "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
-        "name": "$SpecificBuffImmunity$7abb1ef0-c1dd-4f8f-8a2e-edd3809a5a74",
+        "name": "$SpecificBuffImmunity$56bd29a0-1af9-4104-9210-2537c2bcf58a",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -359,7 +366,7 @@
         "m_DisableGameLog": false
       }
     ],
-    "Author": 0,
+    "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
       "m_Key": "",

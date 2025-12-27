@@ -7,7 +7,7 @@
     "Components": [
       {
         "$type": "65221a9a6133bd0408b019b86642d97e, AddFactToEquipmentWielder",
-        "name": "$AddFactToEquipmentWielder$1e7f0f31-7ac4-4318-8801-2943c344d4a2",
+        "name": "$AddFactToEquipmentWielder$9b1b70fc-4729-4db1-a59f-6d32f5249123",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -18,7 +18,7 @@
       },
       {
         "$type": "d7b23547716f4a949471625ff6c66fb2, EquipmentRestrictionHasFacts",
-        "name": "$EquipmentRestrictionHasFacts$07fa87f1-5b9d-428c-b335-7bf0c5824348",
+        "name": "$EquipmentRestrictionHasFacts$43ad4e0d-771a-4455-8722-81a64ce9f6ca",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -29,10 +29,10 @@
           "!bp_b6962fcc54054af98961dd9a6c0f9e18"
         ],
         "m_Inverted": false,
-        "All": true
+        "All": false
       }
     ],
-    "Author": 0,
+    "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
       "m_Key": "AdeptaSororitasHelmetSabbatHoodDP_Item_DisplayName",
@@ -94,7 +94,7 @@
     "m_EquipmentEntityAlternatives": [],
     "m_ForcedRampColorPresetIndex": -1,
     "m_Enchantments": [],
-    "m_InventoryEquipSound": "UI_INV_Rifle_Equip_Play"
+    "m_InventoryEquipSound": "UI_INV_Flak_Equip_Play"
   },
   "Meta": {
     "ShadowDeleted": false
